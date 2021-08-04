@@ -1,3 +1,8 @@
+
+
+README
+
+
 Meeting 1 
 - Answer a few quetions from recorder
 - Kalau ada kalimat passive jawabannya pasti active
