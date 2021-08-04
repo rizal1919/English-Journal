@@ -21,10 +21,10 @@ Notes :
  [UNIT 3]
  
 exercise (Reviewed)
-1d2a3b(c)4b5d6a7b8a9c10d
+- 1d2a3b(c)4b5d6a7b8a9c10d
 
 review (Reviewed)
-1a2c3c4b5c6a7a(b)8b(c)9c10d
+- 1a2c3c4b5c6a7a(b)8b(c)9c10d
 
 sup-Exercise (In Review)
 - 1a2d3c4c5c6d7b8d9a10a 
@@ -32,10 +32,10 @@ sup-Exercise (In Review)
 [UNIT 4]
 
 exercise1 (reviewed)
-1(d)2a3(b)4c5d6b(a)7c8c9a10b
+- 1(d)2a3(b)4c5d6b(a)7c8c9a10b
 
 exercise2 (reviewed)
-1a2b3a4c(a)5b(c)6c7b8b9a10a
+- 1a2b3a4c(a)5b(c)6c7b8b9a10a
 
 Review (In Review)
 - 1c2b3a4d5a6c7c8d9d10d
