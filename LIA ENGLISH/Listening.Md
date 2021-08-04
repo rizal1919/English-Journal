@@ -2,8 +2,8 @@ Meeting 1
 - Answer a few quetions from recorder
 - Kalau ada kalimat passive jawabannya pasti active
 - Kalau ada kalimat active jawabannya pasti passive
--Kalau ada hardly, barely, scarcely itu intinya 95% negative but slightly 5% positive
--Pilihan jawabannya dekat kebanyakan ada may, probably, ect
+- Kalau ada hardly, barely, scarcely itu intinya 95% negative but slightly 5% positive
+- Pilihan jawabannya dekat kebanyakan ada may, probably, ect
     
 NB: Minggu depan akan ada penilaian terkait soal2 yang dibahas so be prepared.
    
