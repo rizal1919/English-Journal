@@ -12,7 +12,7 @@ answer unit 17:
 - E1 : 1a(d)2c3d(a)4d
 - E2 : 1d2a3c4a(d)
 - E3 : 1b2b3c(d)4d
-- R1 : 1(c)2b3(d)4b5a6a7b8c9b10c
+- R2 : 1(c)2b3(d)4b5a6a7b8c9b10c
 
 answer unit 18:
 - E1 : 1a2a3b4d
