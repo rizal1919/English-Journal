@@ -47,4 +47,11 @@ Sup-Exercise (In Review)
 
 [Materi Unit 5](https://drive.google.com/file/d/16kW3SXUtTg-frG7XB5IlvWESRhTUjkSy/view) | [Unit 6](https://drive.google.com/file/d/1LnZw9m98cQQRnOIHP5qLSEEm1IaENPIn/view)
 
+answers unit 5 :
 
+- E1 : 1d2c3b4a5a(c)6b7b8d9a10a (reviewed)
+- R : 1c2b3d4a5d6b7d8b9d10d (reviewed)
+
+answers unit 6 :
+- E1 : 1a2c3b4b5b(c)6a7a8b9d10d (reviewed)
+- E2 : 1b2a3c4a5b6b(a)7d(b)8b9a10d (reviewed)
