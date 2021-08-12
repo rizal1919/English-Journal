@@ -9,15 +9,18 @@ Meeting 1
 Meeting 6
 
 answer unit 17:
-- E1 : 1a(d)2c3d(a)4d
-- E2 : 1d2a3c4a(d)
-- E3 : 1b2b3c(d)4d
-- R2 : 1(c)2b3(d)4b5a6a7b8c9b10c
+- E1   : 1a(d)2c3d(a)4d (reviewed)
+- E2   : 1d2a3c4a(d) (reviewed)
+- E3   : 1b2b3c(d)4d (reviewed)
+- R1   : 1d2b3d4b5a6c7c8a9a (in review)
+- R2   : 1(c)2b3(d)4b5a6a7b8c9b10c (reviewed)
+- SE 1 : 1b2d3c4d5d6b7b8c (in review)
+- SE 2 : 
 
 answer unit 18:
-- E1 : 1a2a3b4d
-- E2 : 1d(a)2(b)3d4c
-- E3 : 1a(b)2a3c4d
+- E1 : 1a2a3b4d (reviewed)
+- E2 : 1d(a)2(b)3d4c (reviewed)
+- E3 : 1a(b)2a3c4d (reviewed)
 
 
 [Materi Unit 17](https://drive.google.com/file/d/1tiLTYXJfKE80OdMucfkM2qh2jTvMV5DF/view) | [Materi Unit 18](https://drive.google.com/file/d/1WIk9VbOi1ADMAYs33lHpmIV3BdUNtRKa/view)
