@@ -21,6 +21,8 @@ answer unit 18:
 - E1 : 1a2a3b4d (reviewed)
 - E2 : 1d(a)2(b)3d4c (reviewed)
 - E3 : 1a(b)2a3c4d (reviewed)
+- R1 : 1a2a3d4b5a6a7a8d9d10d
+- SE2 : 1a2d3b4d5d6c7d8a9d10d
 
 
 [Materi Unit 17](https://drive.google.com/file/d/1tiLTYXJfKE80OdMucfkM2qh2jTvMV5DF/view) | [Materi Unit 18](https://drive.google.com/file/d/1WIk9VbOi1ADMAYs33lHpmIV3BdUNtRKa/view)
