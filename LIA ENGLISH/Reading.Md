@@ -15,7 +15,7 @@ answer unit 17:
 - R1   : 1d2b3d4b5a6c7c8a9a (in review)
 - R2   : 1(c)2b3(d)4b5a6a7b8c9b10c (reviewed)
 - SE 1 : 1b2d3c4d5d6b7b8c (in review)
-- SE 2 : 1b2a3c4
+- SE 2 : 1b2a3c4a5b6b7c8c9d10a (in review)
 
 answer unit 18:
 - E1 : 1a2a3b4d (reviewed)
